@@ -1,0 +1,28 @@
+body {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+div.polaroid {
+  height: 100%;
+  width: 100%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  background-image: url("./images/download.jpeg");
+}
+
+div.polaroid > img {
+  width: 50px;
+  height: 50px;
+  background-repeat: repeat-y;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
