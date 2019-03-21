@@ -7,5 +7,5 @@ const getRandomColor = () => {
 for (const element of tdElements) {
   setInterval(() => {
     element.style.backgroundColor = getRandomColor();
-  }, 2000);
+  }, 50);
 }

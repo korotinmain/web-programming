@@ -2,9 +2,9 @@
 <?xml-stylesheet type = "text/xsl" href = "students.xsl"?>
 <class>
   <student rollno = "393">
-    <firstname>Denys</firstname>
+    <7firstname>Denys</7firstname>
     <lastname>Korotin</lastname>
-    <nickname>Dekor</nickname>
+    <!-- <nickname>Dekor</nickname> -->
     <marks>100</marks>
   </student>
   <student rollno = "493">
@@ -15,8 +15,11 @@
   </student>
   <student rollno = "393">
     <firstname>Kirill</firstname>
-    <lastname>Andriets</lastname>
+    <last name>Andriets</last>
     <nickname>Skirillix</nickname>
+    <h1></h1>
+    <Note></Note>
     <marks>95</marks>
+    <1dollar></1dollar>
   </student>
 </class>

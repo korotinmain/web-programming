@@ -25,4 +25,5 @@ div.polaroid > img {
 div.container {
   text-align: center;
   padding: 10px 20px;
+  text-decoration: none;
 }
